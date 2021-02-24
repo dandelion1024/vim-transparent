@@ -1,5 +1,5 @@
 if !exists("g:Transparent")
-    let g:SnazzyTransparent = 0
+    let g:Transparent = 0
 endif
 
 if g:Transparent == 1
